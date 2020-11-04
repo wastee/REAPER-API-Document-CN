@@ -1,0 +1,6 @@
+Sphinx
+pydata-sphinx-theme
+notebook
+recommonmark
+pandas
+xlrd
